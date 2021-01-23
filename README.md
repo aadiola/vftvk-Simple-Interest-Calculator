@@ -1,5 +1,5 @@
 # vtfvk-Simple-Interest-Calculator
 
-A simple interest calculator forked from 1000000,
+A simple interest calculator forked from IBM CAD101EN Introduction to Cloud Development with HTML, CSS, and JavaScript at edX.
 
 @aadiola
